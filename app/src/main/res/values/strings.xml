@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apna resturant</string>
+    <string name="chicken_burger">chicken_burger</string>
+    <string name="select">select</string>
+    <string name="todo">todo</string>
+    <string name="chicken_masala">chicken_masala</string>
+    <string name="paneer_masala">paneer_masala</string>
+    <string name="fried_rice">fried_rice</string>
+    <string name="fruits_cake">fruits_cake</string>
+    <string name="_4_99_Add_to_card">$ 4.99 Add_to_card</string>
+    <string name="design_by_sachin">Design by sachin</string>
+</resources>
